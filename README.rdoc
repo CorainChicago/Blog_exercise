@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an exerise from http://tutorials.jumpstartlab.com/projects/blogger.html and was a great way to practice making Rails apps.  
 
-Things you may want to cover:
+The directions provided in the link provide instruction and explanation of how to set up a blog app.  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was an exercise, no more and no less.  
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
